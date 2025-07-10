@@ -103,4 +103,8 @@ And hope our suppliers remain friendly.
 
 ---
 
+<<<<<<< HEAD
 *This represents the personal reflections of one practitioner. The views do not represent official policy or assessment.*
+=======
+*This represents the personal reflections of one practitioner. The views do not represent official policy or assessment.*
+>>>>>>> c4dcea8d01d2da54515d66d911901b872f293aae
